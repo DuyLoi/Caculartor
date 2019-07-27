@@ -23,8 +23,8 @@ public class HelpAndAbout extends JFrame {
 	private static final long serialVersionUID = 1L;
 //	private String urlHelp = "file" + File.separator + "help";
 //	private String urlAbout = "file" + File.separator + "about";
-	private String urlHelp = "help";
-	private String urlAbout = "about";
+	private String urlHelp = "help.txt";
+	private String urlAbout = "about.txt";
 	private int bound = 10;
 
 	public HelpAndAbout(int type, String title) {
